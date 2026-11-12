@@ -1,0 +1,25 @@
+{
+  "name": "@azulores/koishi-plugin-daily-plan",
+  "description": "Daily plan reminders sent to groups, with manual confirmation tracking.",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "koishi": "^4.18.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiyikneesocks/koishi-plugin-daily-plan.git"
+  },
+  "homepage": "https://github.com/yiyikneesocks/koishi-plugin-daily-plan#readme",
+  "bugs": {
+    "url": "https://github.com/yiyikneesocks/koishi-plugin-daily-plan/issues"
+  }
+}
